@@ -1,0 +1,29 @@
+﻿  GUI.cpp
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(292): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(312): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(324): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(345): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(357): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(410): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(431): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(476): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(501): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(506): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(520): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(524): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(578): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(630): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(635): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(719): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(733): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(738): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(741): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(759): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(775): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(789): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(802): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(816): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(914): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\algorithmgui\algorithmgui\gui.cpp(977): warning C4018: '<': signed/unsigned mismatch
+  AlgorithmGUI.vcxproj -> C:\Users\Aaron\Documents\Visual Studio 2015\Projects\AlgorithmGUI\Debug\AlgorithmGUI.exe
+  AlgorithmGUI.vcxproj -> C:\Users\Aaron\Documents\Visual Studio 2015\Projects\AlgorithmGUI\Debug\AlgorithmGUI.pdb (Full PDB)
